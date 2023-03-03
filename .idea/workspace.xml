@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783ef806-1434-4556-b45d-33cc4fa53912" name="Changes" comment="P50" />
+    <list default="true" id="783ef806-1434-4556-b45d-33cc4fa53912" name="Changes" comment="P50">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -112,6 +117,15 @@
             </State>
           </value>
         </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="P50" />
+    <option name="LAST_COMMIT_MESSAGE" value="P50" />
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ca19be2d-b1a4-417b-aeae-fea7b0695066" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">

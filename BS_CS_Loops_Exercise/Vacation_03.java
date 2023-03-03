@@ -2,7 +2,7 @@ package BS_CS_Loops_Exercise;
 
 import java.util.Scanner;
 
-public class Vacation {
+public class Vacation_03 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

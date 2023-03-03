@@ -2,7 +2,7 @@ package BS_CS_Loops_Exercise;
 
 import java.util.Scanner;
 
-public class Login {
+public class Login_05 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
